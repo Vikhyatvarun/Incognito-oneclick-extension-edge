@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "One-Click InPrivate",
+  "version": "1.0",
+  "description": "Open a new InPrivate window with one click.",
+  "permissions": ["windows"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_title": "Open InPrivate window"
+  },
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  }
+}
