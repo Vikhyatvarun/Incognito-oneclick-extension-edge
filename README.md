@@ -1,0 +1,1 @@
+So cruently we can't pin the in-private button in edge toolbar which make the thing little time taking, so solving this i made this extension and with the help of it u can open the in-private window in just one click where u can pin this extension in toolbar and by just clicking the icon of the extension 
